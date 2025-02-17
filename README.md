@@ -22,8 +22,8 @@ Interactive Web Platform with Flask: A gallery of images 📸, animated bear �
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your_username/repository_name.git (https://github.com/vale34villa1/Valentine-Day.git)
-cd repository_name (Valentine-Day)
+git clone https://github.com/your_username/repository_name.git #(https://github.com/vale34villa1/Valentine-Day.git)
+cd repository_name #(Valentine-Day)
 pip install -r requirements.txt
 python SanValentin.py
 Open http://localhost:5000 in your browser.
