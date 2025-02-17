@@ -1,8 +1,7 @@
 # Gallery of San Valentine's Day
 
----
-
 **Happy San Valentin's day 2025 ❤️**
+
 Interactive Web Platform with Flask: A gallery of images 📸, animated bear 🧸, background music 🎵, and floating hearts 💕. A digital gesture to surprise your special someone.
 ---
 
