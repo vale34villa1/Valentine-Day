@@ -26,4 +26,4 @@ git clone https://github.com/your_username/repository_name.git #(https://github.
 cd repository_name #(Valentine-Day)
 pip install -r requirements.txt
 python SanValentin.py
-Open http://localhost:5000 in your browser.
+Open localhost in your browser.
